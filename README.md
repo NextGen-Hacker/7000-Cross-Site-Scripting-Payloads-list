@@ -1,0 +1,1 @@
+# 7000-Cross-Site-Scripting-Payloads-list
